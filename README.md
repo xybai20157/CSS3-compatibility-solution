@@ -1,6 +1,5 @@
 IE中的CSS3不完全兼容方案
-转自:http://whosemind.net/content/ie%E4%B8%AD%E7%9A%84css3%E4%B8%8D%E5%AE%8C%E5%85%A8%E5%85%BC%E5%AE%B9%E6%96%B9%E6%A1%88
-由 ckr 于 星期五, 04/30/2010 - 21:45 发表
+转自:http://www.cnblogs.com/platero/archive/2010/08/31/1870151.html
 
 到Internet Explorer 8为止，IE系列是不支持CSS3的。在IE中要做一些常用的效果如圆角、阴影，就需要用一些冗余而无意义的元素和图片来做出这些效果。在厌倦这些后，就 想着用更为简洁、直接有效、CSS3式的办法来解决这些问题。好在就算是饱受批评的Internet Explorer，其本身也是足够强大的。IE特有的技术可以很好的实现一些CSS3的效果。
 
